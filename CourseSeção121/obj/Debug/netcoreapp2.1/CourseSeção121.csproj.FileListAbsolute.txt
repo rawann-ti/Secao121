@@ -1,0 +1,11 @@
+C:\Users\rawan\source\repos\CourseSeção121\CourseSeção121\bin\Debug\netcoreapp2.1\CourseSeção121.deps.json
+C:\Users\rawan\source\repos\CourseSeção121\CourseSeção121\bin\Debug\netcoreapp2.1\CourseSeção121.runtimeconfig.json
+C:\Users\rawan\source\repos\CourseSeção121\CourseSeção121\bin\Debug\netcoreapp2.1\CourseSeção121.runtimeconfig.dev.json
+C:\Users\rawan\source\repos\CourseSeção121\CourseSeção121\bin\Debug\netcoreapp2.1\CourseSeção121.dll
+C:\Users\rawan\source\repos\CourseSeção121\CourseSeção121\bin\Debug\netcoreapp2.1\CourseSeção121.pdb
+C:\Users\rawan\source\repos\CourseSeção121\CourseSeção121\obj\Debug\netcoreapp2.1\CourseSeção121.csprojAssemblyReference.cache
+C:\Users\rawan\source\repos\CourseSeção121\CourseSeção121\obj\Debug\netcoreapp2.1\CourseSeção121.csproj.CoreCompileInputs.cache
+C:\Users\rawan\source\repos\CourseSeção121\CourseSeção121\obj\Debug\netcoreapp2.1\CourseSeção121.AssemblyInfoInputs.cache
+C:\Users\rawan\source\repos\CourseSeção121\CourseSeção121\obj\Debug\netcoreapp2.1\CourseSeção121.AssemblyInfo.cs
+C:\Users\rawan\source\repos\CourseSeção121\CourseSeção121\obj\Debug\netcoreapp2.1\CourseSeção121.dll
+C:\Users\rawan\source\repos\CourseSeção121\CourseSeção121\obj\Debug\netcoreapp2.1\CourseSeção121.pdb
